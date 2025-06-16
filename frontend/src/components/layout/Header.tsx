@@ -29,7 +29,7 @@ const Header = () => {
             </div>
             <div className="flex items-center space-x-1">
               <Mail className="h-4 w-4" />
-              <span>nbconstruction@gmail.com</span>
+              <span>nbconstruction07@gmail.com</span>
             </div>
           </div>
           <div className="hidden md:block">
@@ -42,10 +42,11 @@ const Header = () => {
       <nav className="container mx-auto px-4 py-4">
         <div className="flex justify-between items-center">
         {/* logo */}
-    <Link to="/" className="flex items-center space-x-2">
-  <img src="/logo.jpg" alt="NB Logo" className="w-12 h-12 rounded-lg" />
-  <span className="text-lg font-bold text-blue-900">NB Construction Pvt Ltd</span>
-</Link> 
+ <Link to="/" className="flex items-center space-x-2">
+  <img src="/logo.jpg" alt="NB Logo" className="w-20 h-18 rounded-lg" />
+  <span className="text-xl font-bold text-blue-900">NB Construction Pvt Ltd</span>
+</Link>
+
 
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center space-x-8">

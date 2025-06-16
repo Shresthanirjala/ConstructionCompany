@@ -168,8 +168,8 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold text-gray-900 mb-1">Phone</h3>
-                    <p className="text-gray-600">+977-123-456-789</p>
-                    <p className="text-gray-600">+977-987-654-321</p>
+                    <p className="text-gray-600">9851105215</p>
+                
                   </div>
                 </div>
 
@@ -179,8 +179,8 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold text-gray-900 mb-1">Email</h3>
-                    <p className="text-gray-600">info@nbconstruction.com</p>
-                    <p className="text-gray-600">projects@nbconstruction.com</p>
+                    <p className="text-gray-600">nbsconstruction79@gmail.com</p>
+                   
                   </div>
                 </div>
 
@@ -191,9 +191,9 @@ const Contact = () => {
                   <div>
                     <h3 className="font-semibold text-gray-900 mb-1">Office Address</h3>
                     <p className="text-gray-600">
-                      New Baneshwor, Ward No. 32<br />
+                      Kageswori Municipality, Ward No.2<br />
                       Kathmandu, Nepal<br />
-                      44600
+                    
                     </p>
                   </div>
                 </div>
@@ -237,7 +237,7 @@ const Contact = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="tel:+977123456789"
+              href="9851105215"
               className="inline-block bg-white text-blue-600 px-8 py-4 rounded-lg font-semibold hover:bg-gray-100 transition-colors duration-200"
             >
               Call Now
